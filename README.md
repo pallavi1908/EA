@@ -1,4 +1,4 @@
-##Python program using Dictionaries:
+#Python program using Dictionaries:
 
 import json
 MusicFestival={
@@ -24,7 +24,7 @@ for k,v in Music.items():
 newlist.sort()          
 print(newlist) 
 
-##Java Program using HashMap:
+//Java Program using HashMap:
 
 import java.util.HashMap;
 import java.util.ArrayList;
@@ -63,7 +63,7 @@ public class Main {
     }
 }
 
-##Python program using class:
+#Python program using class:
 
 import json
 from typing import NamedTuple
