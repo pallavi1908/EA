@@ -13,7 +13,7 @@ Band={
     "Band A":"RecordLabel2"
 }    
 newlist=[]
-for k,v in Music.items():
+for k,v in MusicFestival.items():
     if(type(v)) is dict:
         for t,c in v.items():
           rec=c
